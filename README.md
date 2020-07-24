@@ -12,7 +12,7 @@
 
 ## Description
 
-This is a ReadMe Generator. This application will quickly create a summary of your repo. 
+This is a ReadMe Generator. This application will quickly create a summary of your repo using the command line & export a ReadMe file. The application utilizes JavaScript. The HTML is generated using markdown w/ JavaScript as well. 
 
 ## Contents<br>
 **[Installation](#Installation)**<br>
@@ -24,11 +24,12 @@ This is a ReadMe Generator. This application will quickly create a summary of yo
 
 
 ## **Installation**<br>
-node index.js
+npm install 
 
 
 ## **Usage**<br>
 To create a ReadMe file. 
+* Run the application with "node index.js"
 
 
 ## **License**<br>
